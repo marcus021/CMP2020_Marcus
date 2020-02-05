@@ -3,7 +3,7 @@
 /**
  * 
  * @author Marcus
- * created: 2.5.19
+ * created: 2.5.20
  * description: This program calculates the product of any three numbers. 
  */
 
